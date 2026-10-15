@@ -1562,4 +1562,4 @@ Pramana/
 Pramāṇa downloads this material at run time for personal study and does not redistribute it.
 
 Built with Python, FastAPI, SQLite, PyMuPDF, fastembed, rank-bm25, SymPy, youtube-transcript-api,
-yt-dlp, the Anthropic and Google GenAI SDKs, RAGAS, React and Vite.
+yt-dlp, Google GenAI SDKs, RAGAS, React and Vite.
